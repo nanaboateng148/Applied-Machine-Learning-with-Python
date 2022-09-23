@@ -1,0 +1,34 @@
+title : Applied Machine Learning with Python
+author: Nana Boateng
+logo: 'qe-logo-large.png'
+
+# Short description about the book
+description: >-
+  A comprehensive coverage of important topics in machine learning with applications in python.
+
+execute:
+  execute_notebooks           : cache
+
+# HTML-specific settings
+html:
+  home_page_in_navbar         : false
+
+# Interact link settings
+notebook_interface            : "notebook"
+
+# Launch button settings
+repository:
+  url                         : https://github.com/nanaboateng148/Applied-Machine-Learning-with-Python
+  path_to_book                : "notebook"
+
+binder:
+  binderhub_url               : "https://mybinder.org"
+  text                        : "Launch binder"
+
+# LaTeX settings
+bibtex_bibfiles:
+   - _bibliography/references.bib
+latex:
+  latex_engine                : "xelatex"
+  latex_documents:
+    targetname: book.tex

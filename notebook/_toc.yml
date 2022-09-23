@@ -1,0 +1,16 @@
+format: jb-article
+root: docs/index
+sections:
+- file: docs/about_py
+- file: docs/getting_started
+- file: docs/python_by_example
+- file: docs/learn_more
+- file: docs/jupiternotebook
+- file: docs/01_Introduction/01_00_Preface.md
+- file: docs/01_Introduction/01_01_ToolkitSetup.md
+- file: docs/01_Introduction/01_02_TaylorExpansion.md
+- file: docs/02_TimeIntegration/02_01_EulerMethod.md
+- file: docs/02_TimeIntegration/02_02_RungeKutta.md
+- file: docs/03_FiniteDifferences/03_01_FirstOrderDerivative_and_Slicing.md
+- file: docs/03_FiniteDifferences/03_02_HigherOrderDerivative_and_Functions.md
+- file: docs/03_FiniteDifferences/03_03_BoundaryValueProblems.md

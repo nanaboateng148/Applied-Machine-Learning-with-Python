@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>2.4. NumPy &#8212; Applied Machine Learning with Python</title>
+    <title>2.2. NumPy &#8212; Applied Machine Learning with Python</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -136,7 +136,7 @@ const thebe_selector_output = ".output, .cell_output"
   <ul class="current">
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
-     2.4. NumPy
+     2.2. NumPy
     </a>
    </li>
   </ul>
@@ -169,6 +169,18 @@ const thebe_selector_output = ".output, .cell_output"
     </a>
    </li>
   </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Exploratory Data Analysis
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="Exploratory_Data_Analysis.html">
+   1. An Introductory Example
+  </a>
  </li>
 </ul>
 
@@ -412,19 +424,19 @@ title="Print to PDF"
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#overview">
-   2.4.1. Overview
+   2.2.1. Overview
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#references">
-     2.4.1.1. References
+     2.2.1.1. References
     </a>
    </li>
   </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#numpy-arrays">
-   2.4.2. NumPy Arrays
+   2.2.2. NumPy Arrays
   </a>
  </li>
 </ul>
@@ -448,19 +460,19 @@ title="Print to PDF"
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#overview">
-   2.4.1. Overview
+   2.2.1. Overview
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#references">
-     2.4.1.1. References
+     2.2.1.1. References
     </a>
    </li>
   </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#numpy-arrays">
-   2.4.2. NumPy Arrays
+   2.2.2. NumPy Arrays
   </a>
  </li>
 </ul>
@@ -474,7 +486,7 @@ title="Print to PDF"
               <div>
                 
   <section class="tex2jax_ignore mathjax_ignore" id="numpy">
-<span id="id1"></span><h1><span class="section-number">2.4. </span>NumPy<a class="headerlink" href="#numpy" title="Permalink to this headline">#</a></h1>
+<span id="id1"></span><h1><span class="section-number">2.2. </span>NumPy<a class="headerlink" href="#numpy" title="Permalink to this headline">#</a></h1>
 <blockquote>
 <div><p>“Let’s be clear: the work of science has nothing whatever to do with
 consensus. Consensus is the business of politics. Science, on the
@@ -484,7 +496,7 @@ reference to the real world. In science consensus is irrelevant. What
 is relevant is reproducible results.” – Michael Crichton</p>
 </div></blockquote>
 <section id="overview">
-<h2><span class="section-number">2.4.1. </span>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h2>
+<h2><span class="section-number">2.2.1. </span>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h2>
 <p><a class="reference external" href="https://en.wikipedia.org/wiki/NumPy">NumPy</a> is a first-rate library for
 numerical programming</p>
 <ul class="simple">
@@ -499,14 +511,14 @@ lectures.</p>
 <li><p>the fundamental array processing operations provided by NumPy.</p></li>
 </ul>
 <section id="references">
-<h3><span class="section-number">2.4.1.1. </span>References<a class="headerlink" href="#references" title="Permalink to this headline">#</a></h3>
+<h3><span class="section-number">2.2.1.1. </span>References<a class="headerlink" href="#references" title="Permalink to this headline">#</a></h3>
 <ul class="simple">
 <li><p><a class="reference external" href="http://docs.scipy.org/doc/numpy/reference/">The official NumPy documentation</a>.</p></li>
 </ul>
 </section>
 </section>
 <section id="numpy-arrays">
-<span id="numpy-array"></span><h2><span class="section-number">2.4.2. </span>NumPy Arrays<a class="headerlink" href="#numpy-arrays" title="Permalink to this headline">#</a></h2>
+<span id="numpy-array"></span><h2><span class="section-number">2.2.2. </span>NumPy Arrays<a class="headerlink" href="#numpy-arrays" title="Permalink to this headline">#</a></h2>
 <p>The essential problem that NumPy solves is fast array processing.</p>
 <p>The most important structure that NumPy defines is an array data type
 formally called a
@@ -536,6 +548,139 @@ ecosystem.</p>
 </div>
 </div>
 </div>
+<p>format: jb-book
+root: docs/index
+parts:</p>
+<ul class="simple">
+<li><p>caption: Introduction to Python
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/about_py</p></li>
+<li><p>file: docs/getting_started
+sections:</p>
+<ul>
+<li><p>file: docs/numpy</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>caption: Introduction to ML
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/python_by_example</p></li>
+<li><p>file: docs/learn_more
+sections:</p>
+<ul>
+<li><p>file: docs/pandas</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>caption: Exploratory Data Analysis
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Exploratory_Data_Analysis</p></li>
+</ul>
+</li>
+<li><p>caption: Feature Engineering and Selection
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Feature_Engineering_and_Selection</p></li>
+</ul>
+</li>
+<li><p>caption: Model Selection
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Model_Selection</p></li>
+<li><p>file: docs/Automatic_Machine_Learning
+sections:</p>
+<ul>
+<li><p>file: docs/Model_Performance_Metrics</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>caption: Machine Learning for Imbalanced Data
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Machine_Learning_for_Imbalanced_Data</p></li>
+</ul>
+</li>
+<li><p>caption: Big Data Processing
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Big_Data_Processing</p></li>
+</ul>
+</li>
+<li><p>caption: Unsupervised Machine Learning
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/AnomalyDetection</p></li>
+</ul>
+</li>
+<li><p>caption: Time Series Analysis
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Time_Series_Analysis</p></li>
+</ul>
+</li>
+<li><p>caption: Time to Event Models
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Survival_Analysis</p></li>
+</ul>
+</li>
+<li><p>caption: Time to Event Models
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Survival_Analysis</p></li>
+</ul>
+</li>
+<li><p>caption: Machine Learning for Imbalanced Data
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Machine_Learning_for_Imbalanced_Data</p></li>
+</ul>
+</li>
+<li><p>caption: Deep_Learning
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Deep_Learning_for_Structured_Data</p></li>
+<li><p>file: docs/Computer_Vision</p></li>
+<li><p>file: docs/Natural_Language_Processing</p></li>
+</ul>
+</li>
+<li><p>caption: Machine Learning Operations.
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Machine_Learning_Operations</p></li>
+<li><p>file: docs/Model_Deployment</p></li>
+<li><p>file: docs/Data_Validation_and_Monitoring</p></li>
+</ul>
+</li>
+<li><p>caption: Machine Learning Interpretability
+numbered: true
+chapters:</p>
+<ul>
+<li><p>file: docs/Machine_Learning_Interpretability</p></li>
+<li><p>file: docs/CausalInference</p></li>
+</ul>
+</li>
+</ul>
 </section>
 </section>
 

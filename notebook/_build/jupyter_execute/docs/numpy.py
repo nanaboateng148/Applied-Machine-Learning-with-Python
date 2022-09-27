@@ -62,3 +62,94 @@ import numpy as np
 a = np.zeros(5)
 a
 
+
+# format: jb-book
+# root: docs/index
+# parts:
+#   - caption: Introduction to Python
+#     numbered: true
+#     chapters:
+#     - file: docs/about_py
+#     - file: docs/getting_started
+#       sections:
+#       - file: docs/numpy
+#   - caption: Introduction to ML
+#     numbered: true
+#     chapters:
+#     - file: docs/python_by_example
+#     - file: docs/learn_more
+#       sections:
+#       - file: docs/pandas
+#   - caption: Exploratory Data Analysis
+#     numbered: true
+#     chapters:
+#     - file: docs/Exploratory_Data_Analysis
+# 
+#  - caption: Feature Engineering and Selection
+#     numbered: true
+#     chapters:
+#     - file: docs/Feature_Engineering_and_Selection
+# 
+#   - caption: Model Selection
+#     numbered: true
+#     chapters:
+#     - file: docs/Model_Selection
+#     - file: docs/Automatic_Machine_Learning
+#       sections:
+#       - file: docs/Model_Performance_Metrics
+# 
+# - caption: Machine Learning for Imbalanced Data
+#     numbered: true
+#     chapters:
+#     - file: docs/Machine_Learning_for_Imbalanced_Data
+# 
+#  - caption: Big Data Processing
+#     numbered: true
+#     chapters:
+#     - file: docs/Big_Data_Processing
+# 
+#  - caption: Unsupervised Machine Learning
+#     numbered: true
+#     chapters:
+#     - file: docs/AnomalyDetection
+# 
+# - caption: Time Series Analysis
+#     numbered: true
+#     chapters:
+#     - file: docs/Time_Series_Analysis
+# 
+# - caption: Time to Event Models
+#     numbered: true
+#     chapters:
+#     - file: docs/Survival_Analysis
+# 
+# - caption: Time to Event Models
+#     numbered: true
+#     chapters:
+#     - file: docs/Survival_Analysis
+# 
+# 
+# - caption: Machine Learning for Imbalanced Data
+#     numbered: true
+#     chapters:
+#     - file: docs/Machine_Learning_for_Imbalanced_Data
+# 
+# - caption: Deep_Learning
+#     numbered: true
+#     chapters:
+#     - file: docs/Deep_Learning_for_Structured_Data
+#     - file: docs/Computer_Vision
+#     - file: docs/Natural_Language_Processing
+# 
+# - caption: Machine Learning Operations.
+#     numbered: true
+#     chapters:
+#     - file: docs/Machine_Learning_Operations
+#     - file: docs/Model_Deployment
+#     - file: docs/Data_Validation_and_Monitoring
+# 
+# - caption: Machine Learning Interpretability
+#     numbered: true
+#     chapters:
+#     - file: docs/Machine_Learning_Interpretability
+#     - file: docs/CausalInference

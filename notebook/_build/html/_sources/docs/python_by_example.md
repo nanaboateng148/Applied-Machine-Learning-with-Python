@@ -9,7 +9,7 @@ kernelspec:
   name: python3
 ---
 
-(python_by_example)=
+(Survival_Analysis)=
 
 # An Introductory Example
 

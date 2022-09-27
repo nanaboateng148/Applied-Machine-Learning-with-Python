@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# (python_by_example)=
+# (Survival_Analysis)=
 # 
 # # An Introductory Example
 # 

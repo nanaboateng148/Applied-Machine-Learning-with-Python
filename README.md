@@ -7,7 +7,7 @@
 A collection of notebooks on applied machine learning modeling, machine learning engineering and operations.❚
 ```
 
-Entry point: [Applied Machine Learning with P website](https://nanaboateng148.github.io/Applied-Machine-Learning-with-Python/)
+Entry point: [Applied Machine Learning with Python website](https://nanaboateng148.github.io/Applied-Machine-Learning-with-Python/)
 
 <br>
 

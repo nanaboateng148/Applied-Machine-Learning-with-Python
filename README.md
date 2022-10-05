@@ -1,3 +1,5 @@
+![workflow](https://github.com/nanaboateng148/Applied-Machine-Learning-with-Python/actions/workflows/deploybook.yml/badge.svg)
+
 # Applied-Machine-Learning-with-Python
 
 

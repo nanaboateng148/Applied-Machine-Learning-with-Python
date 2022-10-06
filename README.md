@@ -1,5 +1,15 @@
 ![workflow](https://github.com/nanaboateng148/Applied-Machine-Learning-with-Python/actions/workflows/deploybook.yml/badge.svg)
 
+
+[![license](https://img.shields.io/github/license/ nanaboateng148/actions-gh-pages.svg)](https://github.com/nanaboateng148/actions-gh-pages/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/nanaboateng148/actions-gh-pages.svg)](https://github.com/peaceiris/actions-gh-pages/releases/latest)
+[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/actions-gh-pages.svg)](https://github.com/peaceiris/actions-gh-pages/releases)
+![Test](https://github.com/nanaboateng148/actions-gh-pages/workflows/Test/badge.svg?branch=main&event=push)
+![Code Scanning](https://github.com/nanaboateng148/actions-gh-pages/workflows/Code%20Scanning/badge.svg?event=push)
+[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-gh-pages/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-gh-pages)
+
+
+
 # Applied-Machine-Learning-with-Python
 
 

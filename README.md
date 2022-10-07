@@ -2,11 +2,17 @@
 
 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/peaceiris/actions-gh-pages/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-gh-pages)
+[![CodeFactor](https://www.codefactor.io/repository/github/nanaboateng148/Applied-Machine-Learning-with-Python/actions/badge)](https://www.codefactor.io/repository/github/peaceiris/actions-gh-pages)
 
 
 [![GitHub release date](https://img.shields.io/github/release-date/nanaboateng148/actions-gh-pages.svg)](https://github.com/nanaboateng148/actions-gh-pages/releases)
 
+
+
+![Test](https://github.com/nanaboateng148/Applied-Machine-Learning-with-Python/actions/workflows/Test/badge.svg?branch=main&event=push)
+
+
+![Code Scanning](https://github.com/nanaboateng148/Applied-Machine-Learning-with-Python/actions/workflows/Code%20Scanning/badge.svg?event=push)
 
 # Applied-Machine-Learning-with-Python
 

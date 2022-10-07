@@ -2,7 +2,6 @@
 
 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/nanaboateng148/Applied-Machine-Learning-with-Python/actions/badge)](https://www.codefactor.io/repository/github/nanaboateng148/actions-gh-pages)
 
 
 [![GitHub release date](https://img.shields.io/github/release-date/nanaboateng148/actions-gh-pages.svg)](https://github.com/nanaboateng148/actions-gh-pages/releases)
